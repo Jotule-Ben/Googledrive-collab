@@ -1,0 +1,356 @@
+*{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    background-color: black;
+    
+}
+
+.god{
+    display: flex;
+}
+
+.god101{
+    max-width: 30%;
+    height: 100%;
+}
+
+.god103{
+    display: flex;
+    padding: 20px;
+}
+
+.god102 img{
+    width: 40px;
+    border-radius: 30px;
+}
+.god102 h3{
+    margin-top: 30px;
+    color: white;
+    gap: 10px;
+}
+
+
+
+.god104{
+    display: flex;
+    padding: 20px;
+
+}
+
+
+.god401{
+    max-width: 70%;
+    background-color: black;
+    height: 100%;
+}
+
+.god102{
+    background-color: black;
+    border-radius: 10px;
+    border: 2px solid black;
+    border-width: 5px;
+    margin-bottom: 50px;
+}
+
+
+.god102 :hover{
+    color: white;
+    cursor: pointer;
+    text-decoration:underline;
+}
+
+
+.god201{
+    background-color: black;
+    
+}
+
+.god202{
+    display: flex;
+}
+
+.god203{
+    display: flex;
+    margin-left: 200px;
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.god203 img:hover{
+    background-color: whitesmoke;
+    cursor: pointer;
+}
+.god202 h3{
+    margin-top: 15px;
+    font-size: 13px;
+    /* gap: 5px; */
+    margin-left: 5px;
+    color: white;
+}
+
+
+.god201 button{
+    cursor: pointer;
+    width: 20%;
+    color: white;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+    border-width: 5px;
+    background-color: black;
+}
+
+
+.god201 button:hover{
+    background-color: beige;
+}
+
+.god302{
+    border-radius: 20px;
+    border: 2px solid black;
+    border-width: 5px;
+    
+}
+
+.god302{
+    display: flex;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+
+.god302 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 40px;
+    
+}
+
+.god303 h4{
+    color: white;
+    padding-left: 10px;
+}
+.god303 p{
+    color: white;
+    padding-left: 10px;
+}
+
+.god303 :hover{
+    text-decoration:underline;
+    cursor: pointer;
+}
+
+
+.god304{
+    display: flex;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+
+.god304 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 40px;
+    
+}
+
+.god305 h4{
+    color: white;
+    padding-left: 10px;
+}
+.god305 p{
+    color: white;
+    padding-left: 10px;
+}
+
+.god305 :hover{
+    text-decoration:underline;
+    cursor: pointer;
+}
+
+
+.god306{
+    display: flex;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+
+.god306 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 40px;
+    
+}
+
+.god307 h4{
+    color: white;
+    padding-left: 10px;
+}
+.god307 p{
+    color: white;
+    padding-left: 10px;
+}
+
+.god307 :hover{
+    text-decoration:underline;
+    cursor: pointer;
+}
+
+
+.god308{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+
+.god308 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 40px;
+    /* margin-top: 20px; */
+    
+}
+
+.god309 h4{
+    color: white;
+    padding-left: 10px;
+}
+.god309 p{
+    color: white;
+    padding-left: 10px;
+}
+
+.god309 :hover{
+    text-decoration:underline;
+    cursor: pointer;
+}
+
+.god403{
+    display: flex;
+    flex-wrap:wrap;
+}
+
+.god404{
+    max-width: 17.5%;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 40px;
+}
+
+.god404 img{
+    border-radius: 20px;
+
+}
+.god404 h2{
+    color: white;
+}
+
+.god404 p{
+    color: white;
+}
+
+.god402 h2{
+    color: white;
+    margin-top: 20px;
+}
+
+.god404 h2:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
+.vicky-joy{
+    display: flex;
+    list-style: none;
+    /* height: 100px; */
+    background-color: black;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    max-width: 90%;
+    border-bottom:1px solid gray;
+    
+}
+
+
+.vicky101{
+    list-style: none;
+    margin-top: 20px;
+}
+
+.vicky201{
+    list-style: none;
+    margin-top: 20px;
+
+}
+
+.vicky301{
+    list-style: none;
+    margin-top: 20px;
+
+}
+
+.vicky401{
+    list-style: none;
+    margin-top: 20px;
+}
+.vicky501{
+    display: flex;
+}
+
+
+.vicky-joy ul li{
+    color: white;
+    list-style: none;
+    margin-bottom: 10px;
+
+}
+
+.vicky501 img{
+    width: 30px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 20px;
+    border-radius: 40px;
+}
+
+.vicky501 img:hover{
+    background-color: white;
+    cursor: pointer;
+}
+.vicky501{
+    gap: 20px;
+}
+
+.vicky-joy h4{
+    margin-bottom: 20px;
+    color: white;
+    font-weight: bolder;
+    font-size: 19px;
+}
+
+.vicky-joy ul li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+
+
+.rain p{
+    color: white;
+    
+}
+
+.rain101{
+    display: flex;
+    /* gap: 5px; */
+
+}
+
+
+
+
+
+
